@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ChronoSQL.dir/main.cpp.o -o ChronoSQL   -L/home/puya/Desktop/ChronoSQL/sql-parser  -Wl,-rpath,/home/puya/Desktop/ChronoSQL/sql-parser -lsqlparser 

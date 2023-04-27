@@ -1,0 +1,3 @@
+/home/puya/Desktop/ChronoSQL/CMakeFiles/ChronoSQL.dir
+/home/puya/Desktop/ChronoSQL/CMakeFiles/edit_cache.dir
+/home/puya/Desktop/ChronoSQL/CMakeFiles/rebuild_cache.dir
